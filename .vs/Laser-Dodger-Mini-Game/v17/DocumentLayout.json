@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sourabh\\Unity games\\Laser-Dodger-Mini-Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{079FE3D5-6626-B25E-3207-83254CF95CA7}|Assembly-CSharp.csproj|C:\\Users\\sourabh\\Unity games\\Laser-Dodger-Mini-Game\\assets\\scripts\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079FE3D5-6626-B25E-3207-83254CF95CA7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079FE3D5-6626-B25E-3207-83254CF95CA7}|Assembly-CSharp.csproj|c:\\users\\sourabh\\unity games\\laser-dodger-mini-game\\assets\\scripts\\movelayser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079FE3D5-6626-B25E-3207-83254CF95CA7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movelayser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079FE3D5-6626-B25E-3207-83254CF95CA7}|Assembly-CSharp.csproj|C:\\Users\\sourabh\\Unity games\\Laser-Dodger-Mini-Game\\assets\\scripts\\lasttrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079FE3D5-6626-B25E-3207-83254CF95CA7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lasttrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079FE3D5-6626-B25E-3207-83254CF95CA7}|Assembly-CSharp.csproj|C:\\Users\\sourabh\\Unity games\\Laser-Dodger-Mini-Game\\assets\\scripts\\trigger1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079FE3D5-6626-B25E-3207-83254CF95CA7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\trigger1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079FE3D5-6626-B25E-3207-83254CF95CA7}|Assembly-CSharp.csproj|C:\\Users\\sourabh\\Unity games\\Laser-Dodger-Mini-Game\\assets\\scripts\\raycastlayser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079FE3D5-6626-B25E-3207-83254CF95CA7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\raycastlayser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079FE3D5-6626-B25E-3207-83254CF95CA7}|Assembly-CSharp.csproj|C:\\Users\\sourabh\\Unity games\\Laser-Dodger-Mini-Game\\assets\\scripts\\raycastlaysertwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079FE3D5-6626-B25E-3207-83254CF95CA7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\raycastlaysertwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sourabh\\Unity games\\Laser-Dodger-Mini-Game\\assets\\raycastlayserbackwards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\raycastlayserbackwards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LastTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\sourabh\\Unity games\\Laser-Dodger-Mini-Game\\Assets\\Scripts\\LastTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LastTrigger.cs",
+              "ToolTip": "C:\\Users\\sourabh\\Unity games\\Laser-Dodger-Mini-Game\\Assets\\Scripts\\LastTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LastTrigger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T07:35:55.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "trigger1.cs",
+              "DocumentMoniker": "C:\\Users\\sourabh\\Unity games\\Laser-Dodger-Mini-Game\\Assets\\Scripts\\trigger1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\trigger1.cs",
+              "ToolTip": "C:\\Users\\sourabh\\Unity games\\Laser-Dodger-Mini-Game\\Assets\\Scripts\\trigger1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\trigger1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T07:35:45.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RayCastlayserBackwards.cs",
+              "DocumentMoniker": "C:\\Users\\sourabh\\Unity games\\Laser-Dodger-Mini-Game\\Assets\\RayCastlayserBackwards.cs",
+              "RelativeDocumentMoniker": "Assets\\RayCastlayserBackwards.cs",
+              "ToolTip": "C:\\Users\\sourabh\\Unity games\\Laser-Dodger-Mini-Game\\Assets\\RayCastlayserBackwards.cs",
+              "RelativeToolTip": "Assets\\RayCastlayserBackwards.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowB4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T07:28:10.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RayCastlayserTwo.cs",
+              "DocumentMoniker": "C:\\Users\\sourabh\\Unity games\\Laser-Dodger-Mini-Game\\Assets\\Scripts\\RayCastlayserTwo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RayCastlayserTwo.cs",
+              "ToolTip": "C:\\Users\\sourabh\\Unity games\\Laser-Dodger-Mini-Game\\Assets\\Scripts\\RayCastlayserTwo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RayCastlayserTwo.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T07:27:46.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "movelayser.cs",
+              "DocumentMoniker": "C:\\Users\\sourabh\\Unity games\\Laser-Dodger-Mini-Game\\Assets\\Scripts\\movelayser.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\movelayser.cs",
+              "ToolTip": "C:\\Users\\sourabh\\Unity games\\Laser-Dodger-Mini-Game\\Assets\\Scripts\\movelayser.cs",
+              "RelativeToolTip": "Assets\\Scripts\\movelayser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:36:57.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "raycastlayser.cs",
+              "DocumentMoniker": "C:\\Users\\sourabh\\Unity games\\Laser-Dodger-Mini-Game\\Assets\\Scripts\\raycastlayser.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\raycastlayser.cs",
+              "ToolTip": "C:\\Users\\sourabh\\Unity games\\Laser-Dodger-Mini-Game\\Assets\\Scripts\\raycastlayser.cs",
+              "RelativeToolTip": "Assets\\Scripts\\raycastlayser.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAwwCwAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:19:10.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "movement.cs",
+              "DocumentMoniker": "C:\\Users\\sourabh\\Unity games\\Laser-Dodger-Mini-Game\\Assets\\Scripts\\movement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\movement.cs",
+              "ToolTip": "C:\\Users\\sourabh\\Unity games\\Laser-Dodger-Mini-Game\\Assets\\Scripts\\movement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\movement.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAA0wGwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T12:38:37.08Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
