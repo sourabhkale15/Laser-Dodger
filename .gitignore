@@ -1,0 +1,132 @@
+# This .gitignore file is for Unity projects.
+
+# Ignore system-specific files.
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+._*
+
+# Ignore logs and databases.
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+
+# Ignore auto-generated files.
+[Mm]emoryCaptures/
+[Tt]exturePacker/
+UserSettings/
+AssetStoreTools/
+Packages/com.unity.package-manager-ui/
+
+# Ignore project-specific files.
+ExportedObj/
+.consulo/
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.unitypackage
+
+# Ignore crash reports.
+sysinfo.txt
+
+# Ignore build results.
+build/
+Build/
+Builds/
+builds/
+*.apk
+*.aab
+*.xcodeproj
+*.xcworkspace
+*.xcworkspacedata
+*.hmap
+*.ipa
+*.app
+*.xcuserstate
+*.xcuserdata
+*.bundle
+
+# Ignore asset meta data.
+*.meta
+
+# Ignore Unity3D generated file on crash reports.
+sysinfo.txt
+
+# Ignore gradle files.
+gradle/
+*.gradle
+*.class
+*.jar
+*.war
+*.nar
+*.ear
+*.class
+*.rar
+*.zip
+*.tar.gz
+*.gz
+*.bz2
+*.7z
+*.xz
+
+# Ignore crash reports and debug logs.
+*.stackdump
+*.stacktrace
+
+# Ignore node_modules
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+
+# Ignore Unity Cloud Build files
+/UnityBuild/
+
+# Ignore temporary build files
+temp/
+
+# Ignore JetBrains Rider IDE files
+.idea/
+*.sln.iml
+.idea/.idea/
+.idea/workspace.xml
+
+# Uncomment if you have installed JetBrains Rider:
+# .idea/
+# .idea/workspace.xml
+# .idea/modules.xml
+# .idea/.name
+# .idea/workspace.xml
+# .idea/vcs.xml
+# .idea/libraries/
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore Unity addressables assets
+/Assets/AddressableAssetsData/*
+
+# Ignore Mac system files
+*.DS_Store
+
+# Ignore Windows system files
+Thumbs.db
